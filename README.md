@@ -1,10 +1,10 @@
-# Boutros: 3scale Ruby Gem
+# Boutros
 
 A Ruby wrapper for 3scale's Service Management API.
 
 
 ## Installation
-    gem install boutros
+Installation to follow soon...
 
 
 ## Documentation
@@ -33,4 +33,4 @@ Please use the [GitHub issue tracker][issues] to track bugs and features.
 Copyright (c) 2012 Omar Sahyoun
 See [LICENSE][] for details.
 
-[license]: https://github.com/osahyoub/boutros/blob/master/LICENSE.md
+[license]: https://github.com/osahyoun/boutros/blob/master/LICENSE.md
