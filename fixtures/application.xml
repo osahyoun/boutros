@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <id>956</id>
+  <created_at>2012-04-13T14:11:04Z</created_at>
+  <updated_at>2012-04-17T11:59:01Z</updated_at>
+  <state>live</state>
+  <user_account_id>356</user_account_id>
+  <application_id>d85e7bd5</application_id>
+  <keys>
+    <key>73850db4960082017d497ea0500ab4ed</key>
+    <key>aaaa-bbbb-cccc-dddd-eeee-fffff-gggg</key>
+    <key>ooooo</key>
+  </keys>
+  <plan default="true">
+    <id>86</id>
+    <name>Full Data Set - Paid Access</name>
+    <type>application_plan</type>
+    <state>published</state>
+    <service_id>16</service_id>
+  </plan>
+  <name>name_super_long</name>
+  <description>API signup</description>
+  <extra_fields></extra_fields>
+  <status>
+    <usage metric="hits" period="day">
+      <period_start>2012-05-03 00:00:00</period_start>
+      <period_end>2012-05-03 23:59:59</period_end>
+      <current_value>0</current_value>
+      <max_value>500000</max_value>
+    </usage>
+    <usage metric="update" period="minute">
+      <period_start>2012-05-03 15:35:00</period_start>
+      <period_end>2012-05-03 15:35:59</period_end>
+      <current_value>0</current_value>
+      <max_value>0</max_value>
+    </usage>
+    <usage metric="system_gb" period="day">
+      <period_start>2012-05-03 00:00:00</period_start>
+      <period_end>2012-05-03 23:59:59</period_end>
+      <current_value>0</current_value>
+      <max_value>100</max_value>
+    </usage>
+  </status>
+  <referrer_filters>
+    <referrer_filter>*!!!.provider.com</referrer_filter>
+    <referrer_filter>*.provider.com</referrer_filter>
+    <referrer_filter>bla.provider.com</referrer_filter>
+    <referrer_filter>hello</referrer_filter>
+    <referrer_filter>ref</referrer_filter>
+  </referrer_filters>
+</application>

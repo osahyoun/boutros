@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plans>
+  <plan default="true">
+    <id>166</id>
+    <name>Platinum Support</name>
+    <type>account_plan</type>
+    <state>published</state>
+  </plan>
+  <plan>
+    <id>226</id>
+    <name>Gold Support</name>
+    <type>account_plan</type>
+    <state>published</state>
+  </plan>
+  <plan>
+    <id>236</id>
+    <name>Bronze Support</name>
+    <type>account_plan</type>
+    <state>published</state>
+  </plan>
+  <plan>
+    <id>306</id>
+    <name>Custom Platinum Support</name>
+    <type>account_plan</type>
+    <state>hidden</state>
+  </plan>
+  <plan>
+    <id>416</id>
+    <name>Woody%20Plan</name>
+    <type>account_plan</type>
+    <state>hidden</state>
+  </plan>
+  <plan>
+    <id>456</id>
+    <name>bullshit</name>
+    <type>account_plan</type>
+    <state>hidden</state>
+  </plan>
+</plans>

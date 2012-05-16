@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metric>
+  <id>16</id>
+  <name>hits</name>
+  <friendly_name>Hits</friendly_name>
+  <service_id>16</service_id>
+  <unit>hit</unit>
+</metric>

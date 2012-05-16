@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+  <id>16</id>
+  <account_id>16</account_id>
+  <name>API22</name>
+  <state>incomplete</state>
+  <metrics>
+    <metric>
+      <id>16</id>
+      <name>hits</name>
+      <friendly_name>Hits</friendly_name>
+      <service_id>16</service_id>
+      <unit>hit</unit>
+    </metric>
+    <method>
+      <id>56</id>
+      <name>search</name>
+      <friendly_name>Search</friendly_name>
+      <service_id>16</service_id>
+      <metric_id>16</metric_id>
+    </method>
+    <method>
+      <id>66</id>
+      <name>retrieve</name>
+      <friendly_name>Retrieve</friendly_name>
+      <service_id>16</service_id>
+      <metric_id>16</metric_id>
+    </method>
+    <method>
+      <id>76</id>
+      <name>update</name>
+      <friendly_name>Update</friendly_name>
+      <service_id>16</service_id>
+      <metric_id>16</metric_id>
+    </method>
+    <method>
+      <id>126</id>
+      <name>CA_delete</name>
+      <friendly_name>Delete</friendly_name>
+      <service_id>16</service_id>
+      <metric_id>16</metric_id>
+    </method>
+    <metric>
+      <id>136</id>
+      <name>system_gb</name>
+      <friendly_name>Download (Gb)</friendly_name>
+      <service_id>16</service_id>
+      <unit>Gb</unit>
+    </metric>
+  </metrics>
+</service>

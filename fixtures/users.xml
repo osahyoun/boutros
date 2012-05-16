@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <id>346</id>
+    <created_at>2012-04-13T14:11:02Z</created_at>
+    <updated_at>2012-04-13T14:11:03Z</updated_at>
+    <account_id>356</account_id>
+    <state>active</state>
+    <role>admin</role>
+    <username>testapi</username>
+    <email>testapi@3scale.net</email>
+    <extra_fields></extra_fields>
+  </user>
+  <user>
+    <id>347</id>
+    <created_at>2012-04-13T14:11:02Z</created_at>
+    <updated_at>2012-04-13T14:11:03Z</updated_at>
+    <account_id>357</account_id>
+    <state>active</state>
+    <role>admin</role>
+    <username>testapi</username>
+    <email>testapi2@3scale.net</email>
+    <extra_fields></extra_fields>
+  </user>
+</users>
